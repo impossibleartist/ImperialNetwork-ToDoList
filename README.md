@@ -17,3 +17,36 @@
 
 OR
 - [♛ Party Games X ♛ [23 Minigames! Parties, Spleef, Quake, TNTRun, + Tons more!]](https://www.spigotmc.org/resources/%E2%99%9B-party-games-x-%E2%99%9B-23-minigames-parties-spleef-quake-tntrun-tons-more.83240/)
+
+GAMES:
+- CaptureTheFlag
+- PAINTBALL
+- BuildBattle
+- The Walls
+- EggWars
+- BedWars
+- SkyWars
+- HideAndSeek
+- Battle Royale
+- Spleef
+- One In The Chamber
+- Floor Shuffle
+- Sumo
+- The Dropper
+- Volcano
+- Hot Potato
+- Punch The Bat
+- Splegg
+- Ore Miner
+- Animal Slaughter
+- Crafting Master
+- Horse Race
+- Mine Field
+- Survival Games
+- Tnt Run
+- Mob Shooter
+- Hoe Hoe Hoe
+- Colorful Run
+- Quake
+- Minecart Racing
+- Pig Fishing
